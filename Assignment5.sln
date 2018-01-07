@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginSignUp", "LoginSignUp\LoginSignUp.csproj", "{6DA8630E-CC52-4BBE-8448-EA1037C32944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionClassLibrary", "EncryptionClassLibrary\EncryptionClassLibrary.csproj", "{310BC9A0-DDD3-442A-AF88-E36C41F8573C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingService", "BankingService\BankingService.csproj", "{0C4FC61C-0465-4802-959C-44C6A741767E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactService", "TransactService\TransactService.csproj", "{694B5519-7BEE-4EB6-B546-6CB8F5A2FFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfStockService", "WcfStockService\WcfStockService.csproj", "{FC27CC95-D829-433E-B013-2D314A838A22}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Websites(1)", "http://localhost:62713", "{6070ECCA-0191-4143-9F36-6974EDB304DC}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62713"
+		Debug.AspNetCompiler.PhysicalPath = "Websites\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62713\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62713"
+		Release.AspNetCompiler.PhysicalPath = "Websites\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62713\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Websites\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA8630E-CC52-4BBE-8448-EA1037C32944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA8630E-CC52-4BBE-8448-EA1037C32944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA8630E-CC52-4BBE-8448-EA1037C32944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA8630E-CC52-4BBE-8448-EA1037C32944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310BC9A0-DDD3-442A-AF88-E36C41F8573C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310BC9A0-DDD3-442A-AF88-E36C41F8573C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310BC9A0-DDD3-442A-AF88-E36C41F8573C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310BC9A0-DDD3-442A-AF88-E36C41F8573C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4FC61C-0465-4802-959C-44C6A741767E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4FC61C-0465-4802-959C-44C6A741767E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4FC61C-0465-4802-959C-44C6A741767E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4FC61C-0465-4802-959C-44C6A741767E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694B5519-7BEE-4EB6-B546-6CB8F5A2FFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694B5519-7BEE-4EB6-B546-6CB8F5A2FFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694B5519-7BEE-4EB6-B546-6CB8F5A2FFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694B5519-7BEE-4EB6-B546-6CB8F5A2FFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC27CC95-D829-433E-B013-2D314A838A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC27CC95-D829-433E-B013-2D314A838A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC27CC95-D829-433E-B013-2D314A838A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC27CC95-D829-433E-B013-2D314A838A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6070ECCA-0191-4143-9F36-6974EDB304DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6070ECCA-0191-4143-9F36-6974EDB304DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6070ECCA-0191-4143-9F36-6974EDB304DC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6070ECCA-0191-4143-9F36-6974EDB304DC}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

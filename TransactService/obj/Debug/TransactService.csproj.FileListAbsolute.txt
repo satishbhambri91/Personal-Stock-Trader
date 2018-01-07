@@ -1,0 +1,11 @@
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\TransactService\bin\TransactService.dll.config
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\TransactService\bin\TransactService.dll
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\TransactService\bin\TransactService.pdb
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\TransactService\obj\Debug\TransactService.dll
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\TransactService\obj\Debug\TransactService.pdb
+C:\Users\vibhu\Desktop\State Management\Assignment5 (2)\Assignment5\TransactService\bin\TransactService.dll.config
+C:\Users\vibhu\Desktop\State Management\Assignment5 (2)\Assignment5\TransactService\bin\TransactService.dll
+C:\Users\vibhu\Desktop\State Management\Assignment5 (2)\Assignment5\TransactService\bin\TransactService.pdb
+C:\Users\vibhu\Desktop\State Management\Assignment5 (2)\Assignment5\TransactService\obj\Debug\TransactService.csprojResolveAssemblyReference.cache
+C:\Users\vibhu\Desktop\State Management\Assignment5 (2)\Assignment5\TransactService\obj\Debug\TransactService.dll
+C:\Users\vibhu\Desktop\State Management\Assignment5 (2)\Assignment5\TransactService\obj\Debug\TransactService.pdb

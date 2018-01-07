@@ -1,0 +1,5 @@
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\BankingService\bin\BankingService.dll.config
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\BankingService\bin\BankingService.dll
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\BankingService\bin\BankingService.pdb
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\BankingService\obj\Release\BankingService.dll
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\BankingService\obj\Release\BankingService.pdb

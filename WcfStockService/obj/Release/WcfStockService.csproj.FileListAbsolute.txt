@@ -1,0 +1,5 @@
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\WcfStockService\bin\WcfStockService.dll.config
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\WcfStockService\bin\WcfStockService.dll
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\WcfStockService\bin\WcfStockService.pdb
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\WcfStockService\obj\Release\WcfStockService.dll
+C:\Users\vibhu\Documents\Visual Studio 2013\Projects\PersonalStockTrading\WcfStockService\obj\Release\WcfStockService.pdb

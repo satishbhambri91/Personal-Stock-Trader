@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Staff>
+  <admin>
+    <type>sys</type>
+    <FirstName>Robb</FirstName>
+    <LastName>Stark</LastName>
+    <Username>Admin1</Username>
+    <Password>Admin1</Password>
+  </admin>
+  <admin>
+    <type>Normal</type>
+    <FirstName>Sansa</FirstName>
+    <LastName>Stark</LastName>
+    <Username>Admin2</Username>
+    <Password>Admin2</Password>
+  </admin>
+</Staff>
